@@ -1,15 +1,15 @@
 # Data structure and algorithms
 
-The first part is all about linear data structures and their algorithms:
-
+The first part is about complexity analysis
 Big O Notation - 
+The second part is all about linear data structures and their algorithms:
 Arrays - 
 Linked Lists - 
 Stacks - 
 Queues - 
 Hash Tables - 
 
-The second part covers non-linear data structures and their algorithms:
+The third part covers non-linear data structures and their algorithms:
 
 Binary Trees - 
 AVL Trees - 
